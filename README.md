@@ -3,7 +3,7 @@
 
 ## I'm a university student, developer, competitive programmer, lover of the universe.
 - ✍ Competitive programmer
-- 🦖 I'm a full stack developer with the help by [Driven Education][driven] 
+- 🦖 I'm a full stack developer
 - 📚 I’m currently learning Bootstrap, React native and algorithms to solve problems involving graphs.
 - 💬 Ask me about ... Anything, but but...
 
