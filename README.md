@@ -105,21 +105,15 @@
 <br />
 
 ---
-<details>
   <summary>:heavy_exclamation_mark: GitHub Stats</summary>
 
   <img align="bottom" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sZeuSz&show_icons=true&hide_border=true" />
 
-</details>
 
-####
-
-<details>
   <summary>:heavy_exclamation_mark: Most Used Languages</summary>
 
 <img align="bottom" alt="My GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sZeuSz" />
 
-</details>
 
 [facebook]: https://www.facebook.com/zeus.silva.501/
 [instagram]: https://www.instagram.com/zeno_exmpbjj/
