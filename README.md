@@ -106,13 +106,19 @@
 
 ---
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="bottom" alt="Roseno's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sZeuSz&show_icons=true&hide_border=true&layout=compact&langs_count=11&bg_color=000000" />
+  <summary>:heavy_exclamation_mark: GitHub Stats</summary>
+
+  <img align="bottom" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sZeuSz&show_icons=true&hide_border=true" />
+
 </details>
 
+####
+
 <details>
-  <summary>:zap: Most Used Languages</summary>
-<img align="bottom" alt="Roseno's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sZeuSz&show_icons=true&hide_border=true&layout=compact&langs_count=11&bg_color=000000" />
+  <summary>:heavy_exclamation_mark: Most Used Languages</summary>
+
+<img align="bottom" alt="My GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sZeuSz" />
+
 </details>
 
 [facebook]: https://www.facebook.com/zeus.silva.501/
