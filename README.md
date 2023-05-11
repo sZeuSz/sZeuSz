@@ -80,7 +80,7 @@
 <img src="https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" alt="Jest Badge" height="30px">
 <img src="https://img.shields.io/badge/Cypress-%23000000.svg?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress Badge" height="30px">
 <img src="https://img.shields.io/badge/JUnit-%23007296.svg?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit Badge" height="30px">
-<img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge" height="30px">
+<img src="https://img.shields.io/badge/TestCafe-%231674B1.svg?style=for-the-badge&logo=testcafe&logoColor=white" alt="TestCafe Badge" height="30px">
 </p>
                                                                                                                   
 ### Tools and Technologies
@@ -90,6 +90,7 @@
  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" height="30px">
  <img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge" height="30px">
  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge" height="30px">
+<img src="https://img.shields.io/badge/ThunderClient-%23323330.svg?style=for-the-badge&logo=thunderclient&logoColor=white" alt="ThunderClient Badge" height="30px">
  <img src="https://img.shields.io/badge/Selenium-%2312100E.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium Badge" height="30px">
  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge" height="30px">
  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" height="30px">
