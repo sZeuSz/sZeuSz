@@ -14,45 +14,95 @@
 
 <br />
 
-### Languages and Tools:
+### Languages 
+  <p>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge" height="30px">
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" height="30px">
+  <img src="https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" height="30px">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" height="30px">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" height="30px">
+  <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R Badge" height="30px">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" height="30px">
+</p>
 
-<img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="HTML5" width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img align="left" alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="c" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="c++" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="pyCharm" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
-<img align="left" alt="Slack" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />
-<img align="left" alt="atom" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg" />
-<img align="left" alt="canva" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-<img align="left" alt="express" width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-<img align="left" alt="flask" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<img align="left" alt="flutter" width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align="left" alt="git" width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="github" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="haskell" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original-wordmark.svg" />
-<img align="left" alt="handlebars" width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg" />
-<img align="left" alt="heroku" width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
-<img align="left" alt="jest" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-<img align="left" alt="jupyter-notebook" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align="left" alt="lua" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
-<img align="left" alt="nodejs" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-<img align="left" alt="nodejs" width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
-<img align="left" alt="nodejs" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-<img align="left" alt="nodejs" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+### Front-end Development
+  <p>
+   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" height="30px">
+   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" height="30px">
+   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React Badge" height="30px">
+   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge" height="30px">
+  </p>
 
+### Back-end Development
+  <p>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" height="30px">
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge" height="30px">
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge" height="30px">
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge" height="30px">
+</p>
+
+### RDBMS's
+  <p>
+   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" height="30px">
+   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" height="30px">
+   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" height="30px">
+   <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge" height="30px">
+   <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge" height="30px">
+   
+ </p>
+ 
+### Devops
+
+<p>
+ <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" height="30px">
+ <img src="https://img.shields.io/badge/GitLab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge" height="30px">
+ <img src="https://img.shields.io/badge/AWS%20DevOps-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS DevOps Badge" height="30px">
+<img src="https://img.shields.io/badge/Amazon%20S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="Amazon S3 Badge" height="30px">
+<img src="https://img.shields.io/badge/Amazon%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="Amazon EC2 Badge" height="30px">
+<img src="https://img.shields.io/badge/Amazon%20RDS-%23FF9900.svg?style=for-the-badge&logo=amazon-rds&logoColor=white" alt="Amazon RDS Badge" height="30px">
+ <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean Badge" height="30px">
+ <img src="https://img.shields.io/badge/Docker%20Compose-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose Badge" height="30px">
+ <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx Badge" height="30px">
+</p>
+
+### Deploy
+<p>
+ <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku Badge" height="30px">
+ <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge" height="30px">
+ <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge" height="30px">
+ <img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages Badge" height="30px
+ <img src="https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render Badge" height="30px">
+ <img src="https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render Badge" height="30px">
+</p>
+
+### Tests
+<p>
+<img src="https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" alt="Jest Badge" height="30px">
+<img src="https://img.shields.io/badge/Cypress-%23000000.svg?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress Badge" height="30px">
+<img src="https://img.shields.io/badge/JUnit-%23007296.svg?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit Badge" height="30px">
+<img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge" height="30px">
+</p>
+                                                                                                                  
+### Tools and Technologies
+<p>
+ <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" height="30px">
+ <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" height="30px">
+ <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" height="30px">
+ <img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge" height="30px">
+ <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge" height="30px">
+ <img src="https://img.shields.io/badge/Selenium-%2312100E.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium Badge" height="30px">
+ <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge" height="30px">
+ <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" height="30px">
+ <img src="https://img.shields.io/badge/Zoom-%232D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom Badge" height="30px">
+ <img src="https://img.shields.io/badge/Google%20Meet-%234285F4.svg?style=for-the-badge&logo=google-meet&logoColor=white" alt="Google Meet Badge" height="30px">
+<img src="https://img.shields.io/badge/Slidio-%230081B4.svg?style=for-the-badge&logo=slidio&logoColor=white" alt="Slidio Badge" height="30px">
+<img src="https://img.shields.io/badge/Canvas-%23FF1D00.svg?style=for-the-badge&logo=canvas&logoColor=white" alt="Canvas Badge" height="30px">
+<img src="https://img.shields.io/badge/Office-%23D83B01.svg?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office Badge" height="30px">
+<img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Badge" height="30px">
+<img src="https://img.shields.io/badge/Sublime%20Text-%23FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white" alt="Sublime Text Badge" height="30px">
+</p>
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
 ---
 <details>
   <summary>:zap: GitHub Stats</summary>
