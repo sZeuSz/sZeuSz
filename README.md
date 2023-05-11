@@ -1,15 +1,16 @@
 ### Hello World, I'm Zeus/Zeno/Roseno  👋
  <img align="right" alt="cat typing gif" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="400" height="320" />
 
-## I'm a university student, developer, competitive programmer, lover of the universe.
-- ✍ Competitive programmer
+## About me!!!
+- ✍  Ex competitive programmer
 - 🦖 I'm a full stack developer
-- 📚 I’m currently learning Bootstrap, React native and algorithms to solve problems involving graphs.
-- 💬 Ask me about ... Anything, but but...
+- 🐎 I like ponêis
+- 🐶 Future dad of a Chow Chow
+- 💻 I love participating in hackathons and programming competitions (even if it's just for fun now).
+- 💬 Ask me about ... Anything...
 
 ### Talk with me, I'm cool:
 [<img align="left" alt="Zeuszinho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Zeuszinho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />][facebook]
 
 <br />
 
